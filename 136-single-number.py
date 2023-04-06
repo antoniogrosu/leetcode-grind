@@ -13,8 +13,6 @@ class Solution:
         return (max_sum - elem_sum)
 
 
-
-
 sol = Solution()
 result = sol.singleNumber([-1,-1,-2])
 print(result)
